@@ -27,9 +27,9 @@ server.listen(8080)
 */
 
 // import the server function
-var startGunServer = require('gun-server')
+var startGunServer = require('gun-server');
 
 // use said function
-var gun = startGunServer()
+var gun = startGunServer();
 
 // by default, it'll listen on http://localhost:8080
