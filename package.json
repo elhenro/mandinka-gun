@@ -1,0 +1,16 @@
+{
+  "name": "elhenro-gun-server-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elhenro",
+  "license": "ISC",
+  "dependencies": {
+    "gun": "^0.9.4",
+    "gun-server": "^1.0.0",
+    "http": "0.0.0"
+  }
+}
